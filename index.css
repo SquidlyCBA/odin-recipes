@@ -1,0 +1,40 @@
+*{
+    background:  orange;
+}
+
+.title {
+    width: 400px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+    outline: 15px solid black;
+    text-align: center;
+}
+.images{
+    margin-top: 0px;
+    margin-left: 170px;
+    margin-bottom: 20px;
+    width: 200px;
+    height: auto;
+    outline: 10px solid black;
+    box-sizing: content-box;
+}
+.food{
+    margin-top: 20px;
+    margin-left: 200px;
+    outline: 5px solid black;
+    width: 160px;
+    text-align: center;
+    padding: 5px;
+}
+
+div{
+    outline: 5px solid #000000;
+    margin: 40px;
+    padding: 3px;
+}
+
+.text{
+    text-align: center;
+}
